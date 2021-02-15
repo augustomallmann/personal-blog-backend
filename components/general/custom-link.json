@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_general_custom_links",
+  "info": {
+    "name": "Custom Link",
+    "icon": "anchor"
+  },
+  "options": {},
+  "attributes": {
+    "linkName": {
+      "type": "string",
+      "required": true
+    },
+    "url": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
